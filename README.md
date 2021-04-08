@@ -1,13 +1,13 @@
 # prueba m3u8
 
 
-<h2 id="permitir-aplicaciones-menos-seguras-">Plantilla Editable online ---- Oops! ---- &#161;Ups! </h2>
+<h2 id="permitir-aplicaciones-menos-seguras-">Plantilla m3u8 online ---- Oops! ---- &#161;Ups! </h2>
 <blockquote>
 <p><strong>Importante</strong>: </p>
 </blockquote>
-<p>Utilice <em>Esta p&#225;gina Plantilla Editable online</em>, para tu servicio.</p>
+<p>Utilice <em>Esta p&#225;gina Plantilla M3u8 online</em>, para tu servicio.</p>
 
-<p>Cuando un usuario escribe una URL falsa o intenta buscar algo que su sitio web no incluye, es necesaria una p&#225;gina 404 s&#243;lida. Adem&#225;s, es posible que tenga alg&#250;n contenido que ya no est&#233; activo en su p&#225;gina, nuevamente, resuelva las cosas con una p&#225;gina 404. Para evitarle la molestia de crear uno usted mismo
+<p>para ver archivos mp4 o .ts dentro de un m3u8
 
 dise&#241;o de aspecto limpio con texto y un bot&#243;n de llamada a la acci&#243;n que lleva al usuario de regreso a la p&#225;gina de inicio.</p>
 
@@ -25,46 +25,6 @@ dise&#241;o de aspecto limpio con texto y un bot&#243;n de llamada a la acci&#24
 <p>
 
 </div>
-
-<!DOCTYPE html>
-<html>
-<head>
-<!--Este es un texto de ejemplo que no se mostrará en el navegador.-->
-<!-- archivo hls.js@latest  --- https://cdn.jsdelivr.net/npm/hls.js@latest -->
-<!-- referencia https://stackoverflow.com/questions/61657838/m3u8-video-source-only-running-on-macos -->
-
-
-  <script src="hls.js@latest"></script>
-  <style>
-    LEFT OUT BECAUSE OF LINE LIMIT AT STACKOVERFLOW
-  </style>
-</head>
-
-<body>
-  <video id="video" style="width: 90%; height: 80%;" controls></video>
-  <script>
-    function playM3u8(url){
-      if(Hls.isSupported()) {
-        var video = document.getElementById('video');
-        video.volume = 1.0;
-        var hls = new Hls();
-        var m3u8Url = decodeURIComponent(url)
-        hls.loadSource(m3u8Url);
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-          video.play();
-        });
-      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-        video.src = url;
-        video.addEventListener('loadedmetadata', function() {
-          video.play();
-        });
-      }
-    }
-    playM3u8("historia.m3u8")
-  </script>
-</body>
-</html>
 
 <blockquote>
 
