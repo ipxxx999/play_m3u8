@@ -40,6 +40,8 @@
 
 <!--Este es un texto de ejemplo que no se mostrará en el navegador.-->
 
+<!--historia.m3u8.-->
+
 <!-- http://10.0.8.4/server/123456789.m3u8 -->
 
 <!-- http://10.0.8.4/b/playlist-bla.m3u8 -->
