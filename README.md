@@ -7,7 +7,7 @@
 </blockquote>
 <p>Utilice <em>Esta p&#225;gina Plantilla M3u8 online</em>, para tu servicio.</p>
 
-<p>para ver archivos mp4 o .ts dentro de un m3u8
+<p>para ver archivos mp4 o .ts dentro de un m3u8 ( file_get.php ) esta pagina te permitira copiar el codigo m3u8 o una pagina web
 
 dise&#241;o de aspecto limpio con texto y un bot&#243;n de llamada a la acci&#243;n que lleva al usuario de regreso a la p&#225;gina de inicio.</p>
 
