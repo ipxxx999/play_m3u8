@@ -1,4 +1,31 @@
 # prueba m3u8
+
+
+<h2 id="permitir-aplicaciones-menos-seguras-">Plantilla Editable online ---- Oops! ---- &#161;Ups! </h2>
+<blockquote>
+<p><strong>Importante</strong>: </p>
+</blockquote>
+<p>Utilice <em>Esta p&#225;gina Plantilla Editable online</em>, para tu servicio.</p>
+
+<p>Cuando un usuario escribe una URL falsa o intenta buscar algo que su sitio web no incluye, es necesaria una p&#225;gina 404 s&#243;lida. Adem&#225;s, es posible que tenga alg&#250;n contenido que ya no est&#233; activo en su p&#225;gina, nuevamente, resuelva las cosas con una p&#225;gina 404. Para evitarle la molestia de crear uno usted mismo
+
+dise&#241;o de aspecto limpio con texto y un bot&#243;n de llamada a la acci&#243;n que lleva al usuario de regreso a la p&#225;gina de inicio.</p>
+
+<p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar esta Plantilla Editable online en su sitio web.</h2> Puede descargar la p&#225;gina Aqu&#237; <a href="https://github.com/ipxxx999/plantilla_movil_editable_online/archive/main.zip" target="_blank">Plantilla Editable online github</a> exclusivo:</p>
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/ipxxx999/plantilla_movil_editable_online/main/ver.jpg" alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="600" height="300" /></p>
+<p><strong>Cualquier duda</strong>, d&#233;jame un email aqu&#237; o escribe a: <strong>Tutovideo2000@gmail.com</strong></p>
+
+
+
+</div>
+  <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/pro.min.css">
+  <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/estilos.css">
+<p>
+<div class="channel-username-block"><a href="https://t.me/estuto?start=auth-es-5235733993052020" target="_blank" rel="noindex nofollow noopener noreferrer"><div class="fab fa-telegram icon3"> Telegram</a><div class="price-block">
+<p>
+
+</div>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,23 +66,7 @@
 </body>
 </html>
 
-<!--Este es un texto de ejemplo que no se mostrará en el navegador.-->
-
-<!-- http://10.0.8.4/server/123456789.m3u8 -->
-
-<!-- http://10.0.8.4/b/playlist-bla.m3u8 -->
-
-<!-- http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 -->
-
-<!-- http://10.0.8.4/server/playlist-bla.m3u8 -->
-
-<!-- http://10.0.8.4/b/playlist-bla.m3u8 -->
-
-<!-- http://10.0.8.4/b/playlist-bla.m3u8 -->
-
-<!-- http://10.0.8.4/b/playlist-bla.m3u8 -->
-
-
+<blockquote>
 
 
 
